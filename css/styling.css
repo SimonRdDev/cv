@@ -1,0 +1,23 @@
+body {
+  background-color: #2C3639;
+  color: #DCD7C9
+}
+
+h1,h3 {
+  color: #A27B5C;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #3F4E4F;
+}
+
+a:link{
+  color: #A27B5C;
+}
+
+a:visited{
+  color: #DCD7C9;
+}
